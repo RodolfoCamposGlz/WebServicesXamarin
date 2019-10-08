@@ -1,0 +1,12 @@
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.csprojResolveAssemblyReference.cache
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/bin/AccesoaServicioWEB.dll.config
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/bin/AccesoaServicioWEB.dll
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/bin/AccesoaServicioWEB.pdb
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.dll
+C:/Users/rodolfo/Documents/6to Semestre/Programacion moviil/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.pdb
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/bin/AccesoaServicioWEB.dll
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/bin/AccesoaServicioWEB.pdb
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.csprojResolveAssemblyReference.cache
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.csproj.CoreCompileInputs.cache
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.dll
+/Users/rodolfocampos/Documentos/IOS XAMARIN/AccesoaServicioWEB/AccesoaServicioWEB/obj/Debug/AccesoaServicioWEB.pdb
